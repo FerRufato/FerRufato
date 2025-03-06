@@ -2,8 +2,8 @@
 
 
 ###### Sobre a Fernanda 
-Estudante de desenvolvimento web e software, com foco em **ReactJS, TypeScript, Java, SCSS e Gulp**. Tenho experiência acadêmica em **modularização de estilos (BEM, SCSS, LESS)**, automação de tarefas e consumo de APIs com **Fetch API**.  
-Atualmente, aprimoro minhas habilidades através de cursos e projetos práticos, buscando aplicar **boas práticas, responsividade e organização** no desenvolvimento front-end e back-end.  
+Estudante de desenvolvimento **Full Stack**, com foco em **Back-End Java** e **Front-End moderno**. Tenho experiência acadêmica em **Java, Spring Boot, TypeScript, ReactJS, SCSS e Gulp**. Trabalho com **consumo de APIs (Fetch API), modularização de estilos (BEM, SCSS, LESS) e automação de tarefas**.  
+Atualmente, aprimoro minhas habilidades através de cursos e projetos práticos, buscando aplicar **boas práticas, organização e escalabilidade** no desenvolvimento de aplicações web.  
 
 ### Detalhes
 
@@ -12,3 +12,8 @@ Atualmente, aprimoro minhas habilidades através de cursos e projetos práticos,
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Projeto_md35&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerRufato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
