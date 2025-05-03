@@ -11,8 +11,9 @@ Atualmente, aprimoro minhas habilidades através de cursos e projetos práticos,
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Projeto_md35&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Projeto38_Monol-tico&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Projeto_md35&theme=dark)](https://github.com/FerRufato/Projeto_md35)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Projeto38_Monol-tico&theme=dark)](https://github.com/FerRufato/Projeto_md35)
 
 
 ### Linguagens utilizadas
