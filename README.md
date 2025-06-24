@@ -16,7 +16,7 @@ Atualmente, aprimoro minhas habilidades através de cursos e projetos práticos,
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Projeto38_Monol-tico&theme=dark)](https://github.com/FerRufato/Projeto38_Monol-tico)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=md33_JPAAvancado&theme=dark)](https://github.com/FerRufato/md33_JPAAvancado).
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Desafio-Photo-opp&theme=dark)](https://github.com/FerRufato/Desafio-Photo-opp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Desafio-Photo-opp&theme=dark)](https://github.com/FerRufato/Desafio-Photo-opp)       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=MD29-TesteSQL&theme=dark)](https://github.com/FerRufato/MD29-TesteSQL)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Desafio-Photo-opp-frontend&theme=dark)](https://github.com/FerRufato/Desafio-Photo-opp-frontend)
 
