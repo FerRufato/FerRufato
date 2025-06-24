@@ -19,6 +19,8 @@ Atualmente, aprimoro minhas habilidades através de cursos e projetos práticos,
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Desafio-Photo-opp-frontend&theme=dark)](https://github.com/FerRufato/Desafio-Photo-opp-frontend)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=MicroServicosMD42&theme=dark)](https://github.com/FerRufato/MicroServicosMD42)
+
 
 ### Linguagens utilizadas
 
