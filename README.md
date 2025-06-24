@@ -2,9 +2,9 @@
 
 
 ###### Sobre a Fernanda 
-Estudante de desenvolvimento **Full Stack**, com foco em **Back-End Java** e **Front-End moderno**. Tenho experiência acadêmica em **Java, Spring Boot, TypeScript, ReactJS, SCSS e Gulp**. Trabalho com **consumo de APIs (Fetch API), modularização de estilos (BEM, SCSS, LESS) e automação de tarefas**.  
-Atualmente, aprimoro minhas habilidades através de cursos e projetos práticos, buscando aplicar **boas práticas, organização e escalabilidade** no desenvolvimento de aplicações web.  
+Desenvolvedora Full Stack formada, com foco em Back-End Java e Front-End moderno. Atualmente, curso Pós-graduação em Inteligência Artificial para Desenvolvedores, buscando ampliar minhas habilidades em soluções inteligentes e automatizadas. Tenho experiência com Java, Spring Boot, TypeScript, ReactJS, Styled Components, SCSS, LESS e Gulp.
 
+Atuo com consumo de APIs REST (Fetch API), modularização de estilos com Styled Components e pré-processadores CSS, além de automação de tarefas no desenvolvimento web. Busco sempre aplicar boas práticas, organização de código e foco em escalabilidade em cada projeto.
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerRufato&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
