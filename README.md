@@ -20,7 +20,7 @@ Atualmente, aprimoro minhas habilidades através de cursos e projetos práticos,
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Desafio-Photo-opp-frontend&theme=dark)](https://github.com/FerRufato/Desafio-Photo-opp-frontend)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Desafio-Photo-opp-frontend&theme=dark)](https://github.com/FerRufato/Desafio-Photo-opp-frontend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Projeto2Mod25&theme=dark)](https://github.com/FerRufato/Projeto2Mod25)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Projeto2Mod25&theme=dark)](https://github.com/FerRufato/Projeto2Mod25)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Testes_Parte2&theme=dark)](https://github.com/FerRufato/Testes_Parte2)
 
 
 ### Linguagens utilizadas
