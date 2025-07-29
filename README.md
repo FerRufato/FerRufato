@@ -23,6 +23,8 @@ Atuo com consumo de APIs REST (Fetch API), modularização de estilos com Styled
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Projeto2Mod25&theme=dark)](https://github.com/FerRufato/Projeto2Mod25)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Testes_Parte2&theme=dark)](https://github.com/FerRufato/Testes_Parte2)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=TesteParte1&theme=dark)](https://github.com/FerRufato/TesteParte1)      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=clone_disneyplus&theme=dark)](https://github.com/FerRufato/clone_disneyplus) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FerRufato&repo=Desafio&theme=dark)](https://github.com/FerRufato/Desafio) 
+
 
 
 
