@@ -2,7 +2,7 @@
 
 
 ###### Sobre a Fernanda 
-Olá, meu nome é Fernanda Rufato.
+meu nome é Fernanda Rufato.
 Sou desenvolvedora Full Stack, formada em Desenvolvimento Full Stack e atualmente cursando uma pós-graduação em Inteligência Artificial para Desenvolvedores.
 
 Meu foco é construir aplicações completas, com qualidade e boas práticas, utilizando Java com Spring Boot no backend e React com TypeScript no frontend.
@@ -12,7 +12,7 @@ No meu portfólio, você vai encontrar:
 
 🖼️ Aplicações modernas com React, incluindo fluxo completo, integrações e componentes reutilizáveis
 
-🧠 Projetos de IA e Machine Learning, como análises de burnout e predições usando Python
+🧠 Projetos de IA e Machine Learning, como análises e predições usando Python
 
 🛠️ APIs completas com testes, Docker, boas práticas e documentação
 
