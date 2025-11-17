@@ -2,9 +2,20 @@
 
 
 ###### Sobre a Fernanda 
-Desenvolvedora Full Stack formada, com foco em Back-End Java e Front-End moderno. Atualmente, curso Pós-graduação em Inteligência Artificial para Desenvolvedores, buscando ampliar minhas habilidades em soluções inteligentes e automatizadas. Tenho experiência com Java, Spring Boot, TypeScript, ReactJS, Styled Components, SCSS, LESS e Gulp.
+Olá, meu nome é Fernanda Rufato.
+Sou desenvolvedora Full Stack, formada em Desenvolvimento Full Stack e atualmente cursando uma pós-graduação em Inteligência Artificial para Desenvolvedores.
 
-Atuo com consumo de APIs REST (Fetch API), modularização de estilos com Styled Components e pré-processadores CSS, além de automação de tarefas no desenvolvimento web. Busco sempre aplicar boas práticas, organização de código e foco em escalabilidade em cada projeto.
+Meu foco é construir aplicações completas, com qualidade e boas práticas, utilizando Java com Spring Boot no backend e React com TypeScript no frontend.
+No meu portfólio, você vai encontrar:
+
+🧩 Projetos reais com arquitetura de microserviços (Produtos, Clientes, Pedidos)
+
+🖼️ Aplicações modernas com React, incluindo fluxo completo, integrações e componentes reutilizáveis
+
+🧠 Projetos de IA e Machine Learning, como análises de burnout e predições usando Python
+
+🛠️ APIs completas com testes, Docker, boas práticas e documentação
+
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerRufato&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
